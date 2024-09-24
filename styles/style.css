@@ -114,8 +114,8 @@ body {
 }
 
 .apresentacao__imagem {
-  width: 50%;
-  width: 390px;
+  width: 40%;
+  border: 10px double #22D4FD;
   border-radius: 30px;
 }
 
